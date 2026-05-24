@@ -2,7 +2,7 @@
 Projeto **Monitoramento da Roçada** (nome provisório).
 
 ## Integrantes
-* Felipe Souza Carvalho      - 564704
+* Felipe Souza Carvalho      - 564779
 * Gustavo Hackime Costa      - 563751
 * Luiz Henrique Macedo Graça - 564704
 * Riquelme Santos da Mata    - 565053
